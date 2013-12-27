@@ -37,7 +37,8 @@ p{
 
 
 #navi
-{
+{       
+        max-width:100px;
         float:left; 
     }
  
@@ -145,7 +146,7 @@ p{
 
 #container
 {
-        float:left;
+        float:none;
         background-color:white;            
       /*  background-color:#C5E8E8;*/
         overflow: auto;
@@ -162,7 +163,7 @@ p{
      
         background-color:white;            
         
-        max-width:481px;
+        max-width:980px;
         margin: 0 auto;
         padding:0;
        
@@ -182,7 +183,7 @@ p{
     
         background-image:url(../pages/pics/kula.jpg);
         background-repeat:no-repeat;
-        background-size:1000px;
+        background-size:980px;
         background-position:left;
     
 }  
