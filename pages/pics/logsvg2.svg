@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m161,93c0,-19.889496 15.886749,-36 35.5,-36c19.613266,0 35.5,16.110504 35.5,36c0,19.889519 -15.886734,36 -35.5,36c-19.613251,0 -35.5,-16.110481 -35.5,-36z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ff0000"/>
+  <ellipse ry="198" rx="256" id="svg_2" cy="1114" cx="1442" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ff0000"/>
+  <ellipse transform="rotate(114.042, 299.976, 272.126)" ry="143.784064" rx="225.653001" id="svg_3" cy="272.126647" cx="299.97626" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#020000"/>
+  <ellipse transform="rotate(126.077, 271.792, 183.57)" ry="70.747328" rx="71.703995" id="svg_4" cy="183.570234" cx="271.792622" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ff0000"/>
+  <path id="svg_5" d="m171,93c0,-14.364639 11.635376,-26 26,-26c14.364624,0 26,11.635361 26,26c0,14.364624 -11.635376,26 -26,26c-14.364624,0 -26,-11.635376 -26,-26z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ff0000"/>
+  <rect id="svg_7" height="184.000003" width="87.000004" y="252.000001" x="227.999998" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ff0000"/>
+  <path d="m1179,904c-1,0 -2.38269,0.076111 -2,1c1.082397,2.613098 6.155396,6.873901 11,13c6.203003,7.843689 12.447998,15.445435 19,23c5.55957,6.410217 13.195557,11.811829 18,17c6.26416,6.764587 11.938477,15.048157 19,24c7.931274,10.054565 14.113525,16.920288 19,24c4.096191,5.934753 8.220581,10.831299 12,16c2.128174,2.910522 5.692383,6.410889 9,11c2.614868,3.62793 5,9 8,12l1,2l2,1l0,1" id="svg_12" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <path id="svg_13" d="m177,438c0,-6.629822 20.138062,-12 45,-12c24.861877,0 45,5.370178 45,12c0,6.629822 -20.138123,12 -45,12c-24.861938,0 -45,-5.370178 -45,-12z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ff0000"/>
+  <path id="svg_14" d="m265,438c0,-6.629822 20.138062,-12 45,-12c24.861877,0 45,5.370178 45,12c0,6.629822 -20.138123,12 -45,12c-24.861938,0 -45,-5.370178 -45,-12z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ff0000"/>
+  <path id="svg_15" d="m308,94.5c0,-21.270706 15.662994,-38.5 35,-38.5c19.337036,0 35,17.229294 35,38.5c0,21.270729 -15.662964,38.5 -35,38.5c-19.337006,0 -35,-17.229271 -35,-38.5z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ff0000"/>
+  <path id="svg_16" d="m318,94c0,-16.022095 11.187805,-29 25,-29c13.812134,0 25,12.977905 25,29c0,16.022087 -11.187866,29 -25,29c-13.812195,0 -25,-12.977913 -25,-29z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ff0000"/>
+  <ellipse id="svg_17" transform="rotate(126.077, 272.501, 184.087)" ry="55.43664" rx="56.278005" cy="184.087912" cx="272.500755" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ff0000"/>
+  <rect id="svg_18" height="160" width="39.000002" y="263.999999" x="250.999998" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ff0000"/>
+
+ </g>
+</svg>

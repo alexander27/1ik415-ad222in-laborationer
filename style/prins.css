@@ -1,0 +1,52 @@
+sociallist
+{
+    display:none;
+}
+#navi{
+    
+    display:none;
+    
+}
+h1 {
+        font-family: helvetica;
+        font-size: 1px;
+    }
+    
+h2{
+    font-family: helvetica;
+        font-size: 1px;
+    
+}  
+
+h3{
+    
+    font-family: helvetica;
+        font-size: 1px;
+    
+}
+a {
+    text-decoration: none;
+}
+
+p {
+    font-family: verdana;
+}
+
+a:after {
+ 
+    content: " ["attr(href)"]";
+    
+}
+a:href{
+    
+    display:none;
+    
+}
+
+#footer
+{
+    display:none;
+}
+
+    
+

@@ -1,0 +1,366 @@
+
+
+h1 { 
+        font-family:"Helvetica","Arial", sans-serif;
+        margin-left:10px;
+        margin-right:10px;
+}
+h2{
+    
+
+    
+        font-family:Arial;
+        margin-left:10px;
+        margin-right:10px;   
+   
+    }    
+
+
+h3{
+    
+        font-family:Arial;
+        margin-left:10px;
+        margin-right:10px;
+}
+
+p{
+   
+        font-family: helvetica;
+        font-size:19px;
+        margin-left:1px;
+        margin-right:1px;
+}
+
+#navi
+/*Layout*/
+
+
+
+#navi
+{
+        float:left; 
+    }
+ 
+.meny{
+        width:50px;
+        border-top-left-radius:10;
+        font-size:19px;
+        list-style-type:none;
+    } 
+.active{
+    color:orange;
+    
+}    
+ 
+ 
+
+#sociallist{
+        float:left;
+        margin: 0;
+        padding:0;
+        width:165px;
+        list-style-type: none;
+        font-size: 100%;
+        background: silver;
+        border-bottom: 1px solid #996666;
+    
+    }
+
+#sociallist a{ 
+    
+        display: block;
+        width: 135px; height:20px;
+        padding-left: 1.40em; padding-top: 0.25em;
+        padding-bottom: 0.25em;
+        text-decoration: none;
+        border-top: 1px solid black;
+        border-right: 1px solid black; 
+        border-left: 1px solid black;
+        
+     
+}
+
+
+    /*sprites*/
+    
+#start  {
+    background:url(../pages/pics/sprite.png)0px -48px;
+    background-repeat:no-repeat;
+     
+    
+    } 
+
+#start a:hover{
+    background:url(../pages/pics/sprite.png)0px -0px;
+    background-repeat:no-repeat;
+     background-color:yellow;
+    
+}
+#lab  {
+    background:url(../pages/pics/sprite.png)0px -144px;
+    background-repeat:no-repeat;
+    
+    
+    } 
+
+#lab a:hover{
+    background:url(../pages/pics/sprite.png)0px -96px;
+    background-repeat:no-repeat;
+     background-color:yellow;
+    
+}
+#kon  {
+    background:url(../pages/pics/sprite.png)0px -240px;
+    background-repeat:no-repeat;
+    
+    } 
+
+#kon a:hover{
+    background:url(../pages/pics/sprite.png)0px -192px;
+    background-repeat:no-repeat;
+    background-color:yellow;
+}
+#press  {
+    background:url(../pages/pics/sprite.png)0px -336px;
+    background-repeat:no-repeat;
+    
+    } 
+
+#press a:hover{
+    background:url(../pages/pics/sprite.png)0px -288px;
+    background-repeat:no-repeat;
+     background-color:yellow;
+
+
+}
+
+
+       
+
+
+
+
+
+
+
+#container
+{
+        float:left;
+        background-color:white;            
+      /*  background-color:#C5E8E8;*/
+        overflow: auto;
+        max-width:1200px;
+        margin: 0 auto;
+        padding:0;
+   
+}  
+
+@media only screen and (max-width:481px) /*För alla mobilsidor*/  
+{
+    #container
+    {
+     
+        background-color:white;            
+        
+        max-width:481px;
+        margin: 0 auto;
+        padding:0;
+       
+    }  
+}
+
+
+    
+#top{
+        color:#7960EF;
+        background-color:black;
+        margin: 0 auto;
+        max-width:980px;
+        height:150px;
+        padding-top:10px;
+    
+    
+        background-image:url(../pages/pics/kula.jpg);
+        background-repeat:no-repeat;
+        background-size:1000px;
+        background-position:left;
+    
+}  
+
+@media only screen and (max-width:481px) /*För alla mobilsidor*/  
+{
+    
+    
+    
+#top{
+        color:#7960EF;
+        background-color:white;
+        
+        margin: 0 auto;
+        max-width:310px;
+        height:150px;
+     
+        padding-top:10px;
+    
+    
+        background-image:url(../pages/pics/kula.jpg);
+        background-repeat:no-repeat;
+        background-size:310px;
+        background-position:left;
+    }
+}
+.rub1{
+        
+        font-size:17px;
+        
+    }
+    
+
+#content{
+        
+        
+        
+        
+        
+        background-color:white;
+        max-width:980px;
+        
+        border-radius:20px;
+        
+        margin:0 auto;
+        float:left; 
+       
+       
+       
+     
+        
+   
+    
+    
+    
+    
+}
+
+@media only screen and (max-width:481px) /*För alla mobilsidor*/
+{
+    #content{
+            padding-left: 0;
+            padding-right: 0;
+            background-color:white;
+            max-width:310px;
+            border-radius:2px;
+            margin:0 auto;
+            float:left;
+            }    
+    
+   .right{
+       
+            max-width:50px;
+            max-height:50px;
+       
+   } 
+  
+        
+      
+}    
+    
+    
+    
+
+#footer{
+  
+            color:#7960EF;
+            background-image:url(../pages/pics/kula.jpg);
+            background-color:black;
+            height:150px;
+            margin-bottom:5px;
+            margin: 0 auto;
+            max-width:980px;
+            float:left;
+            width:100%;
+   
+ 
+}
+@media only screen and (max-width:481px) /*För alla mobilsidor*/
+{
+    #footer{
+            color:#7960EF;
+            background-image:url(../pages/pics/kula.jpg);
+            background-color:white;
+            
+            margin-bottom:5px;
+            background-size:310px;
+            background-repeat:no-repeat;
+            
+            
+            margin: 0 auto;
+            max-width:310px;
+            float:left;
+            } 
+            
+            
+}
+
+
+
+/* index*/
+
+
+.right{ /* <----   bild måne i text*/
+    
+  
+            float:left;
+            margin-bottom:50px;
+    
+ 
+
+}
+   
+    /* Use COLORS:
+    *white
+    *#071B54
+    *#8C860E
+    *#B5AD12
+    */
+    
+    
+/*-------------------------------------*/
+ 
+.b{
+    
+            background-color:silver;
+            max-width:700px;
+            max-height:650px;
+            background-image:url(../pages/pics/icon2.png);
+            
+            background-repeat:no-repeat;
+            background-size:25px;
+            background-position:top left;
+
+}    
+
+.inlägg{
+    
+            padding:20px;
+    
+    
+    
+    
+} 
+
+.active
+{
+            font-style: italic;
+      
+    
+}
+.bcolor{
+    
+            background-color:silver;  
+    
+}
+#menu a{
+            display:none;
+    
+    
+}
